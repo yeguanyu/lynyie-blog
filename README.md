@@ -3,6 +3,11 @@
 一个极致精美、专注体验的个人博客系统。
 演示站点：https://1nvweb.top/test/%E6%BC%94%E7%A4%BA%E7%BD%91%E7%AB%99
 
+## Download
+你可以通过以下链接下载最新版本：  
+- [v1.1](https://dev.1nvweb.top/lynyie/1NVWEB-TOOLS-3.0/releases/tag/v3.2.3) 
+- [v1.0](https://github.com/yeguanyu/lynyie-blog/)
+- 
 ## 系统运行截图
 
 
