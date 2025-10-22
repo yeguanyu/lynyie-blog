@@ -6,8 +6,8 @@
 
 https://1nvweb.top/homefunctions/storage/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-10-22%20142524.png
 ![图片描述](https://1nvweb.top/homefunctions/storage/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-10-22%20142524.png)
-![图片描述](https://1nvweb.top/homefunctions/storage/屏幕截图 2025-10-22 143036.png)
-![图片描述](https://1nvweb.top/homefunctions/storage/屏幕截图 2025-10-22 143051.png)
+![图片描述](https://1nvweb.top/homefunctions/storage/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-10-22%20143036.png)
+![图片描述](https://1nvweb.top/homefunctions/storage/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-10-22%20143051.png)
 
 ## 功能模块
 
