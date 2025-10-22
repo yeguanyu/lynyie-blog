@@ -1,0 +1,8 @@
+{
+    "overlay_enabled": true,
+    "overlay_blur": "0",
+    "overlay_opacity": "0",
+    "overlay_border_radius": "0",
+    "overlay_text_color": "#ffffff",
+    "overlay_bg_color": "#000000"
+}

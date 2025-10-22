@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>欢迎来到 LynYie 的精美博客 · LynYie</title>
+  <meta name="description" content="这是一个注重体验与美学的个人空间，记录灵感与成长。" />
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css" />
+  <script defer src="assets/script.js"></script>
+  <style>
+body { background-image: url('http://127.0.0.2/uploads/68f8561520059.png'); background-size: cover; background-attachment: fixed; background-repeat: no-repeat; }
+.card { backdrop-filter: blur(1.5px); }
+.post-hero { background-color: rgba(255, 255, 255, 0.05) !important; }
+html.dark .post-hero { background-color: rgba(10, 11, 16, 0.05) !important; }
+.post-hero { border-radius: 5px; }
+.site-header { border-radius: 20px; }
+.site-header { background-color: rgba(255, 255, 255, 0.1) !important; }
+html.dark .site-header { background-color: rgba(18, 18, 18, 0.1) !important; }
+.site-header { opacity: 1; }
+.site-footer { color: #ffffff; }
+.site-footer { background-color: rgba(184, 195, 255, 0); }
+.site-footer { border-radius: 20px; }
+.site-footer { backdrop-filter: blur(3px); }
+
+</style>
+</head>
+<body class="post-page">
+  <header class="site-header container">
+    <div class="brand">
+      <a class="logo" href="./">LynYie</a>
+      <span class="tagline">写字与代码，生活中的光</span>
+    </div>
+    <nav class="nav">
+      <a href="./" class="nav-link">首页</a>
+      <button id="themeToggle" class="btn ghost" title="切换深浅色">🌗</button>
+    </nav>
+  </header>
+
+    <section class="post-hero" style="--cover:url('https://upload-bbs.miyoushe.com/upload/2024/03/14/357876319/124721bd76906d9caaaaa7e8e69594da_5019940052751482151.jpeg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpeg')">
+    <div class="overlay"></div>
+    <div class="container hero-inner">
+      <h1 class="post-title">欢迎来到 LynYie 的精美博客</h1>
+      <div class="post-meta">
+        <time>2025年10月21日</time>
+        <div class="tags">
+                      <span class="custom-tag" style="color: #ff6b6b; background: rgba(255,107,107,0.10); border: 1px solid rgba(255,107,107,0.25);">生活</span>
+                  </div>
+        <span class="post-views">浏览量: 15</span>
+      </div>
+    </div>
+  </section>
+  <main class="container prose">
+    <p>你好，我是 <strong>LynYie</strong>。这里是我的个人博客。</p>
+<p>在这里，我会记录：</p>
+<ul>
+  <li>关于设计与产品的思考</li>
+  <li>关于代码与工程实践的总结</li>
+  <li>关于生活与成长的片段</li>
+</ul>
+<p>我相信极简不是减少内容，而是减少无效；精美也不是花哨，而是克制后的锋芒。希望你在这里，能获得片刻的安静与灵感。</p>
+<p>如果你愿意交流，欢迎通过页脚的联系方式找到我。感谢你的来访！</p>  </main>
+  
+  <footer class="site-footer container">
+          <h3>关于我</h3>    <p>我是 LynYie。写字与代码，是我表达世界的方式；追求极简与美感，是我对日常的坚持。</p>   <div id="contact" class="contact">      <a class="btn ghost" href="mailto:hello@example.com">Email</a>      <a class="btn ghost" href="https://github.com/" target="_blank" rel="noopener">GitHub</a>    <a class="btn ghost" href="admin.php">编辑与后台</a>    </div>    <small class="copyright">© <?= date("Y") ?> <?= h($SITE_NAME) ?> · 原创</small>      </footer>
+  <!-- 设置悬浮球与面板 -->
+  <div class="settings">
+    <button class="fab" id="settingsFab" aria-label="打开设置">⚙️</button>
+    <div class="settings-panel" id="settingsPanel" aria-hidden="true">
+      <div class="backdrop" id="settingsBackdrop"></div>
+      <div class="settings-window" role="dialog" aria-modal="true" aria-labelledby="settingsTitle">
+        <div class="settings-header">
+          <strong id="settingsTitle">外观设置</strong>
+          <button class="close" id="settingsClose" aria-label="关闭">✕</button>
+        </div>
+        <div class="settings-body">
+          <div class="setting-row">
+            <span>主题</span>
+            <div class="options">
+              <label class="opt"><input type="radio" name="theme" value="dark"> 暗黑模式</label>
+              <label class="opt"><input type="radio" name="theme" value="light"> 百日模式</label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "技术",
+        "color": "#2bd4ff",
+        "bgcolor": "#ffffff",
+        "border": "#ccf0ff"
+    },
+    {
+        "name": "生活",
+        "color": "#ff6b6b",
+        "bgcolor": "rgba(255,107,107,0.10)",
+        "border": "rgba(255,107,107,0.25)"
+    },
+    {
+        "name": "笔记",
+        "color": "#6bcf7f",
+        "bgcolor": "rgba(107,207,127,0.10)",
+        "border": "rgba(107,207,127,0.25)"
+    },
+    {
+        "name": "测试标签",
+        "color": "#7c5cff",
+        "bgcolor": "#000000",
+        "border": "#000000"
+    }
+]

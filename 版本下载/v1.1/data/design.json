@@ -1,0 +1,21 @@
+{
+    "custom_css": "",
+    "custom_js": "",
+    "custom_html": "",
+    "hero_background": "",
+    "site_background": "http:\/\/127.0.0.2\/uploads\/68f8561520059.png",
+    "pic_blend_percentage": "0",
+    "pic_blur_percentage": "15",
+    "hero_blend_percentage": "10",
+    "hero_border_radius": "5",
+    "site_header_blur": "0",
+    "site_header_border_radius": "5",
+    "site_header_blend": "10",
+    "site_header_opacity": "100",
+    "site_footer_content": "<h3>关于我<\/h3>    <p>写字与代码，是我表达世界的方式；追求极简与美感，是我对日常的坚持。<\/p>   <div id=\"contact\" class=\"contact\">      <a class=\"btn ghost\" href=\"mailto:hello@example.com\">Email<\/a>      <a class=\"btn ghost\" href=\"https:\/\/github.com\/\" target=\"_blank\" rel=\"noopener\">GitHub<\/a>    <a class=\"btn ghost\" href=\"admin.php\">编辑与后台<\/a>    <\/div>    <small class=\"copyright\">© <?= date(\"Y\") ?> <?= h($SITE_NAME) ?> · POWER BY LynYie<\/small>",
+    "site_footer_text_color": "#ffffff",
+    "site_footer_bg_color": "#b8c3ff",
+    "site_footer_bg_opacity": "0",
+    "site_footer_border_radius": "20",
+    "site_footer_blur": "3"
+}
