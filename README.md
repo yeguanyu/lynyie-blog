@@ -1,10 +1,11 @@
 # LynYie 博客系统
 
 一个极致精美、专注体验的个人博客系统。
+演示站点：https://1nvweb.top/test/%E6%BC%94%E7%A4%BA%E7%BD%91%E7%AB%99
 
 ## 系统运行截图
 
-https://1nvweb.top/homefunctions/storage/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-10-22%20142524.png
+
 ![图片描述](https://1nvweb.top/homefunctions/storage/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-10-22%20142524.png)
 ![图片描述](https://1nvweb.top/homefunctions/storage/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-10-22%20143036.png)
 ![图片描述](https://1nvweb.top/homefunctions/storage/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-10-22%20143051.png)
