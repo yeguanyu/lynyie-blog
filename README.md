@@ -5,7 +5,7 @@
 
 ## Download
 你可以通过以下链接下载最新版本：  
-- [v1.1](https://github.com/yeguanyu/lynyie-blog/tree/main/%E7%89%88%E6%9C%AC%E4%B8%8B%E8%BD%BD/v1.1) 
+- [v1.1](https://github.com/yeguanyu/lynyie-blog/releases/tag/v1.1) 
 - [v1.0](https://github.com/yeguanyu/lynyie-blog/)
 - 
 ## 系统运行截图
